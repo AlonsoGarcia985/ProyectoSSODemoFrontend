@@ -2,7 +2,7 @@
 
 Frontend React que consume la sesión SSO gestionada por el backend PHP. Se autentica mediante **SAML 2.0** a través de **Keycloak** como Identity Provider, con **PHP como Service Provider**.
 
-> Este README asume que ya tienes el backend configurado y corriendo. Si no, lee primero el README de `ProyectoSSOBackend`.
+> Este README asume que ya tienes el backend configurado y corriendo. Si no, lee primero el README de `ProyectoSSODemoBackend`.
 
 ---
 
